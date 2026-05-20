@@ -125,6 +125,7 @@ Sagility thesis intact — patience required.
 
 ## 📁 Repository Structure
 
+```
 trading-portfolio-analysis/
 ├── README.md
 ├── data/
@@ -136,6 +137,7 @@ trading-portfolio-analysis/
 ├── consolidated_analysis.png
 ├── deployment_recommendation.png
 └── outcome_tracking.png
+```
 
 ---
 
